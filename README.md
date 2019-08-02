@@ -1,5 +1,5 @@
-# HelloAll-CMP73010
+# Ssh_newRespo
 For the class
 
 Why is this?
-I am coding
+Why am I coding?
